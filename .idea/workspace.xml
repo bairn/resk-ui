@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cd721dc-4240-4344-8f04-3389e3920465" name="Default Changelist" comment="" />
+    <list default="true" id="3cd721dc-4240-4344-8f04-3389e3920465" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brun/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/brun/config.ini" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +22,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bRE1GvWOwy4XOQmpAJv1Tpm31y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -74,6 +78,26 @@
     <proxy>https://goproxy.io,direct</proxy>
   </component>
   <component name="WindowStateProjectService">
+    <state width="1364" height="426" key="GridCell.Tab.0.bottom" timestamp="1588591009438">
+      <screen x="33" y="23" width="1407" height="877" />
+    </state>
+    <state width="1364" height="426" key="GridCell.Tab.0.bottom/33.23.1407.877@33.23.1407.877" timestamp="1588591009438" />
+    <state width="1364" height="426" key="GridCell.Tab.0.bottom/34.23.1406.877@34.23.1406.877" timestamp="1588590345133" />
+    <state width="1364" height="426" key="GridCell.Tab.0.center" timestamp="1588591009438">
+      <screen x="33" y="23" width="1407" height="877" />
+    </state>
+    <state width="1364" height="426" key="GridCell.Tab.0.center/33.23.1407.877@33.23.1407.877" timestamp="1588591009438" />
+    <state width="1364" height="426" key="GridCell.Tab.0.center/34.23.1406.877@34.23.1406.877" timestamp="1588590345132" />
+    <state width="1364" height="426" key="GridCell.Tab.0.left" timestamp="1588591009437">
+      <screen x="33" y="23" width="1407" height="877" />
+    </state>
+    <state width="1364" height="426" key="GridCell.Tab.0.left/33.23.1407.877@33.23.1407.877" timestamp="1588591009437" />
+    <state width="1364" height="426" key="GridCell.Tab.0.left/34.23.1406.877@34.23.1406.877" timestamp="1588590345131" />
+    <state width="1364" height="426" key="GridCell.Tab.0.right" timestamp="1588591009438">
+      <screen x="33" y="23" width="1407" height="877" />
+    </state>
+    <state width="1364" height="426" key="GridCell.Tab.0.right/33.23.1407.877@33.23.1407.877" timestamp="1588591009438" />
+    <state width="1364" height="426" key="GridCell.Tab.0.right/34.23.1406.877@34.23.1406.877" timestamp="1588590345132" />
     <state x="246" y="100" key="SettingsEditor" timestamp="1588588984234">
       <screen x="34" y="23" width="1406" height="877" />
     </state>
